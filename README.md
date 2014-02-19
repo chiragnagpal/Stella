@@ -1,4 +1,8 @@
-LICENSE
+STELLA
+=======
+
+###LICENSE
+
 All software is licensed under 
 GNU GPL License 
 https://www.gnu.org/copyleft/gpl.html
